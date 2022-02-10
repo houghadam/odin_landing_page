@@ -1,0 +1,1 @@
+Objective: recreate a website landing page from an image.
